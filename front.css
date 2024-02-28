@@ -1,0 +1,43 @@
+.main{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
+    text-align: center;
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+.list{
+    color: blue;
+    font-size: 20px;
+    font-weight:lighter;
+    text-align: left;   
+}
+
+.button{
+    background-color: red;
+    color: white;
+    padding: 12px 28px;
+    margin: 8px;
+}
+
+a:hover {
+    background-color: blue;
+  }
+
+  .img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.card {
+    width: 400px;
+    background: #fff;
+    margin: 16px auto;
+    padding: 8px;
+   
+  }
